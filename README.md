@@ -1,6 +1,6 @@
 # Hi, I'm Goodnews 
 
-### Electrical & Electronics Engineer | Researcher | Embedded Systems
+### Electrical & Electronics Engineer | Researcher
 
 I'm an Electrical & Electronics Engineer interested in building intelligent hardware and sensing systems that connect electronics, computation, and the physical world.
 
